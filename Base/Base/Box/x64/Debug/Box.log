@@ -1,0 +1,3 @@
+﻿  BoxApp.cpp
+c:\users\cgf17gij\desktop\base\base\box\boxapp.cpp(168): warning C4305: '+=': truncation from 'double' to 'float'
+  Box.vcxproj -> C:\Users\cgf17gij\Desktop\Base\Base\Box\x64\Debug\Lab 3.exe
